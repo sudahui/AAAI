@@ -16,5 +16,5 @@ We use Tensorflow1.0 and Python2.7 for convenient.
 3. Read, Change and Run main.py 
 ### References
 
-    A Conditional Variational Framework for Dialog Generation. Xiaoyu Shen, Hui Su, Shuzi Niu, Vera Demberg. 2018. AAAI https://arxiv.org/abs/1802.02032
+    Improving Variational Encoder-Decoders in Dialogue Generation. Xiaoyu Shen, Hui Su, Shuzi Niu, Vera Demberg. 2018. AAAI https://arxiv.org/abs/1802.02032
     The DailyDialog Corpus: DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset. Yanran Li, Hui Su, Xiaoyu Shen, Wenjie Li, Ziqiang Cao, Shuzi Niu. 2017. IJCNLP. https://arxiv.org/abs/1710.03957.
