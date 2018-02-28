@@ -13,7 +13,8 @@ This repository hosts the improved VEDs(Variational Encoder-Decoders) model for 
 We use Tensorflow1.0 and Python2.7 for convenient.
 1. Create a new "Checkpoints"  directories inside it.
 2. Change the parameters in main.py according to your GPU memeory size.
-3. Read, Change and Run main.py 
+3. Read the core code file WS_vhred.py 
+4. Change and Run main.py 
 ### References
 
     Improving Variational Encoder-Decoders in Dialogue Generation. Xiaoyu Shen, Hui Su, Shuzi Niu, Vera Demberg. 2018. AAAI https://arxiv.org/abs/1802.02032
